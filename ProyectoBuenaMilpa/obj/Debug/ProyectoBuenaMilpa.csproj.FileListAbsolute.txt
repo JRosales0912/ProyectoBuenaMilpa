@@ -1,1 +1,11 @@
 D:\JarfD\OneDrive\PerJa\Documentos\ProyectoBuenaMilpa\ProyectoBuenaMilpa\bin\Debug\ProyectoBuenaMilpa.exe.config
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\bin\Debug\ProyectoBuenaMilpa.exe.config
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\bin\Debug\ProyectoBuenaMilpa.exe
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\bin\Debug\ProyectoBuenaMilpa.pdb
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.csprojResolveAssemblyReference.cache
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.Home.resources
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.Properties.Resources.resources
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.Region.resources
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.csproj.GenerateResource.Cache
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.exe
+C:\Users\SJavierRosales\Documents\GitHub\ProyectoBuenaMilpa\ProyectoBuenaMilpa\obj\Debug\ProyectoBuenaMilpa.pdb
